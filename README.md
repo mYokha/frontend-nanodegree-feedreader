@@ -4,7 +4,7 @@ It's as as easy as it could ever be
 1. Click on the green button `Clone or download` in top right corner
 2. Use the link with `git clone` to get it into the folder you're working in or just click `Download ZIP` to get an archive
 	2.1. If you've gone the second way unpack the archive
-3. Anyway you will end up with a folder. In the root of this folder there's `index.html` which you haave to double click.
+3. Anyway you will end up with a folder. In the root of this folder there's `index.html` which you have to double click.
 
 # Project Overview
 
