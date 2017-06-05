@@ -1,3 +1,11 @@
+# How to run an app
+
+It's as as easy as it could ever be
+1. Click on the green button `Clone or download` in top right corner
+2. Use the link with `git clone` to get it into the folder you're working in or just click `Download ZIP` to get an archive
+	2.1. If you've gone the second way unpack the archive
+3. Anyway you will end up with a folder. In the root of this folder there's `index.html` which you haave to double click.
+
 # Project Overview
 
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
